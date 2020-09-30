@@ -1,0 +1,53 @@
+
+/*=================================================header===============================================*/
+
+/*================================================/header===============================================*/
+
+/*=================================================main===============================================*/
+.main_top{
+    background: #323232;
+    text-align: center;
+    padding:115px 0;
+}
+.main_top_title{
+    font-family: 'Montserrat-Medium';
+    font-size: 61.69px;
+    color:white;
+}
+.main_top_text{
+    font-family: 'NunitoSans-Regular';
+    font-size: 21px;
+    color:white;
+}
+.main_skills{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.main_skills_right{
+    width:30%;
+    margin-left: 50px;
+}
+.main_skills_text{
+    font-family: 'NunitoSans-Regular';
+    font-size: 16px;
+    color:#787878;
+}
+.request_button{
+    font-family: 'Montserrat-Medium';
+    font-size: 12px;
+    color:white;
+    background: #007d2f;
+    padding:22px 40px;
+    text-transform: uppercase;
+}
+.request{
+    padding-bottom: 100px;
+}
+/*================================================/main===============================================*/
+
+/*=================================================footer===============================================*/
+
+
+/*================================================/footer===============================================*/

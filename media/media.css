@@ -1,0 +1,244 @@
+@media(max-width:1050px){
+    .project_title{
+        margin-bottom: 20px;
+        padding-top:10px;
+    }
+    .ptoject_text{
+        margin-bottom: 20px;
+    }
+    .project_links{
+        margin-bottom: 15px;
+    }
+}
+@media(max-width:950px){
+    .project_title{
+        margin-bottom: 15px;
+        padding-top:10px;
+        font-size: 20px;
+    }
+    .ptoject_text{
+        margin-bottom: 15px;
+        font-size: 13px;
+    }
+    .project_links{
+        margin-bottom: 10px;
+        font-size: 13px;
+    }
+    .project_link{
+        font-size: 13px;
+    }
+}
+@media(max-width:800px){
+    .contact_left{
+        min-width:100%;
+    }
+    .contact_right{
+        min-width:100%;
+    }
+    .text_align{
+        min-width:100%;
+    }
+    .ptoject_text{
+        min-width: 100%;
+    }
+}
+@media(max-width:1000px) {
+    .footer_column_title {
+        font-size: 15px;
+        margin-bottom: 20px;
+    }
+
+    .footer_rights {
+        font-size: 13px;
+    }
+
+    .email {
+        font-size: 13px;
+    }
+
+    .number {
+        font-size: 13px;
+    }
+    .about_title{
+        margin-bottom: 20px;
+        font-size: 20px;
+    }
+    .about_text{
+        font-size: 13px;
+    }
+    .about_sign{
+        width: 150px;
+        height: 40px;
+    }
+}
+
+@media(max-width:768px) {
+    .footer_column {
+        text-align: center;
+    }
+    .main_skills_title{
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+    .progress_title{
+        margin-bottom: 10px;
+    }
+    .progress{
+        margin-bottom: 20px;
+    }
+    .work_img_item{
+        width:50%;
+    }
+    .about_title{
+        margin-bottom: 10px;
+        font-size: 18px;
+    }
+    .about_text{
+        font-size: 12px;
+        margin-bottom: 5px;
+    }
+    .about_sign{
+        width: 150px;
+        height: 40px;
+    }
+
+}
+
+@media(max-width:576px) {
+    .partner_logo {
+        margin-bottom: 50px;
+    }
+
+    .partner_logos{
+        justify-content: space-around;
+    }
+    .partner_logo_img{
+        width:40%;
+    }
+    .second{
+        display: flex;
+        justify-content: flex-end;
+    }
+    .main_skills_title{
+        font-size:15px;
+    }
+    .progress_title{
+        font-size: 10px;
+    }
+    .main_skills_left{
+        margin-right: 20px;
+    }
+    .main_info_item {
+        padding:30px 0;
+    }
+    .main_info_number{
+        font-size: 13px;
+    }
+    .main_info_text{
+        font-size: 13px;
+    }
+    .header_content_text{
+        font-size: 12px;
+    }
+    .header_content_title{
+        font-size: 20px;
+    }
+    .header_content_button {
+        padding:10px 20px;
+    }
+    .main{
+        padding-top:30px;
+    }
+    .about-us_title{
+        margin-bottom: 20px;
+        font-size: 20px;
+    }
+    .about-us_text{
+        margin-bottom: 20px;
+        font-size: 12px;
+    }
+    .about-us_sign{
+        width: 130px;
+        height: 66px;
+    }
+    .work_process_title{
+        margin-bottom: 20px;
+        font-size: 20px;
+        padding-top: 20px;
+    }
+    .work_process_text{
+        margin-bottom: 20px;
+        font-size: 12px;
+    }
+    .video{
+        min-height:400px;
+        margin-bottom: 30px;
+    }
+    .services_icons{
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .carusel_text {
+        font-size: 15px;
+        margin-top: 80px;
+        margin-bottom: 20px;
+    }
+    .line_quotes{
+        height:300px;
+    }
+}
+
+@media(max-width:400px) {
+    .partner_logo {
+        margin-bottom: 30px;
+    }
+
+    .partner_logos{
+        justify-content: center;
+        align-items: center;
+    }
+    .partner_logo_img{
+        width:100%;
+        display: flex;
+        justify-content: center;
+    }
+input, textarea{
+    font-size: 13px;
+}
+.work_img_item{
+    width:100%;
+}
+}
+
+@media(max-width:610px){
+    .about_img{
+        width:100%;
+    }
+    .main_skills_right{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        margin-right: 0 !important;
+        width:100%;
+    }
+    .about_title{
+        margin-bottom: 20px;
+        font-size: 20px;
+        margin-top: 20px;
+    }
+    .about_text{
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+    .about_sign{
+        width: 200px;
+        height: 60px;
+        padding-bottom: 20px;
+    }
+}
+
+@media(max-width:600px){
+    .main_skills_right{
+        margin-left: 10px;
+    }
+}
