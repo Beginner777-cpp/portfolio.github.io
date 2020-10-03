@@ -40,6 +40,12 @@ height: 100%;
 }
 .text{
     font-size: 15px;
+    display: flex;
+    align-items: center;
+}
+
+.carousel__span{
+margin:0 5px;
 }
 
 .carousel__control{
@@ -68,5 +74,16 @@ height: 100%;
 .third{
 order:2;
 }
+.carousel-item{
+    
+}
 
+.project_carousel{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.project_img{
+    height:666px;
+}
 /*=====================================/main===============================*/
