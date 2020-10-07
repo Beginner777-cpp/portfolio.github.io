@@ -219,11 +219,7 @@ text-align: center;
     color:#787878;
     margin-bottom: 50px;
 }
-.video{
-    width:100%;
-    min-height: 575px;
-    margin-bottom: 95px;
-}
+
 .services_icons{
     display: flex;
     flex-wrap: wrap;
@@ -369,6 +365,31 @@ input[type="submit"]{
     justify-content: center;
 
 }
+
+.video{
+    width: 100%;
+    min-height: 575px;
+    margin-bottom: 95px;
+}
+iframe{
+    background: url(../img/video_img.png);
+}
+/* .video_div{
+position: relative;
+overflow: hidden;
+}
+.video_img{
+
+}
+.video{
+    min-height: 575px;
+    margin-bottom: 95px;
+}
+
+.video_div:hover .video{
+top:0;
+} */
+
 /*========================================/main================================*/
 
 /*=========================================footer================================*/

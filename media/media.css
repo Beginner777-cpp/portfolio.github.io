@@ -227,6 +227,16 @@
     .project_img{
         height:420px;
     }
+
+    .carousel__control{
+        display: none;
+    }
+    .project_carousel_indicators{
+        left:47%;
+    }
+    .line_content{
+        padding:20px 0;
+    }
 }
 
 @media(max-width:400px) {
@@ -285,5 +295,15 @@ input, textarea{
 @media(max-width:600px){
     .main_skills_right{
         margin-left: 10px;
+    }
+}
+
+@media(max-width:300px){
+    .carusel_item{
+    min-height:400px;
+    }
+
+    .line_quotes{
+        height:max-content;
     }
 }
